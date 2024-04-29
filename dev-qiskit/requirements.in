@@ -1,0 +1,12 @@
+pip
+wheel
+setuptools
+setuptools_rust
+-e //home/ima/github/terra[visualization,qasm3-import]
+-r //home/ima/github/terra/requirements-dev.txt
+ipython
+jupyterlab
+gprof2dot
+py-spy
+memray
+rich

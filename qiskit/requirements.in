@@ -1,0 +1,11 @@
+pip
+wheel
+setuptools
+ruff
+qiskit[visualization,qasm3-import]
+ipython
+jupyterlab
+gprof2dot
+py-spy
+memray
+rich
